@@ -1,4 +1,4 @@
-module github.com/blendle/zapdriver
+module github.com/q42philips/zapdriver
 
 go 1.13
 
