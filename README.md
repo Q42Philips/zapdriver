@@ -5,6 +5,8 @@ Blazing fast, [Zap][zap]-based [Stackdriver][stackdriver] logging.
 [zap]: https://github.com/uber-go/zap
 [stackdriver]: https://cloud.google.com/stackdriver/
 
+Note that this is a fork from the unmaintained [blendle/zapdriver](https://github.com/blendle/zapdriver). Q42Philips is using zapdriver in production, so we will maintain this to some degree. However, no guarantees.
+
 ## Usage
 
 This package provides three building blocks to support the full array of
